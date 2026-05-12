@@ -1,0 +1,13 @@
+<mujoco model="design">
+  <compiler angle="radian" convexhull="false"/>
+
+  <asset>
+    <mesh name="left_scan" file="left_scan.stl"/>
+  </asset>
+
+  <worldbody>
+    <body name="base_link">
+      <geom type="mesh" mesh="left_scan"/>
+    </body>
+  </worldbody>
+</mujoco>

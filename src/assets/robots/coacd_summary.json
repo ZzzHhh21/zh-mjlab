@@ -1,0 +1,122 @@
+{
+  "left": {
+    "source": "src/assets/robots/left_obj/left_scan.obj",
+    "part_count": 3,
+    "total_vertices": 23049,
+    "total_faces": 46086,
+    "params": {
+      "threshold": 0.006,
+      "max_convex_hull": -1,
+      "preprocess_mode": "auto",
+      "preprocess_resolution": 120,
+      "resolution": 20000,
+      "mcts_nodes": 32,
+      "mcts_iterations": 240,
+      "mcts_max_depth": 4,
+      "pca": false,
+      "merge": true,
+      "decimate": false,
+      "max_ch_vertex": 256,
+      "extrude": false,
+      "extrude_margin": 0.001,
+      "apx_mode": "ch",
+      "seed": 0,
+      "real_metric": true
+    },
+    "parts": [
+      {
+        "file": "coacd/left_scan_coacd_000.obj",
+        "vertices": 19814,
+        "faces": 39624,
+        "stl_file": "coacd/left_scan_coacd_000.stl"
+      },
+      {
+        "file": "coacd/left_scan_coacd_001.obj",
+        "vertices": 2194,
+        "faces": 4384,
+        "stl_file": "coacd/left_scan_coacd_001.stl"
+      },
+      {
+        "file": "coacd/left_scan_coacd_002.obj",
+        "vertices": 1041,
+        "faces": 2078,
+        "stl_file": "coacd/left_scan_coacd_002.stl"
+      }
+    ]
+  },
+  "right": {
+    "source": "src/assets/robots/right_obj/right_scan.obj",
+    "part_count": 8,
+    "total_vertices": 31689,
+    "total_faces": 63346,
+    "params": {
+      "threshold": 0.006,
+      "max_convex_hull": -1,
+      "preprocess_mode": "auto",
+      "preprocess_resolution": 120,
+      "resolution": 20000,
+      "mcts_nodes": 32,
+      "mcts_iterations": 240,
+      "mcts_max_depth": 4,
+      "pca": false,
+      "merge": true,
+      "decimate": false,
+      "max_ch_vertex": 256,
+      "extrude": false,
+      "extrude_margin": 0.001,
+      "apx_mode": "ch",
+      "seed": 0,
+      "real_metric": true
+    },
+    "parts": [
+      {
+        "file": "coacd/right_scan_coacd_000.obj",
+        "vertices": 4351,
+        "faces": 8698,
+        "stl_file": "coacd/right_scan_coacd_000.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_001.obj",
+        "vertices": 4321,
+        "faces": 8638,
+        "stl_file": "coacd/right_scan_coacd_001.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_002.obj",
+        "vertices": 5102,
+        "faces": 10200,
+        "stl_file": "coacd/right_scan_coacd_002.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_003.obj",
+        "vertices": 4403,
+        "faces": 8802,
+        "stl_file": "coacd/right_scan_coacd_003.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_004.obj",
+        "vertices": 2816,
+        "faces": 5628,
+        "stl_file": "coacd/right_scan_coacd_004.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_005.obj",
+        "vertices": 3528,
+        "faces": 7052,
+        "stl_file": "coacd/right_scan_coacd_005.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_006.obj",
+        "vertices": 3612,
+        "faces": 7220,
+        "stl_file": "coacd/right_scan_coacd_006.stl"
+      },
+      {
+        "file": "coacd/right_scan_coacd_007.obj",
+        "vertices": 3556,
+        "faces": 7108,
+        "stl_file": "coacd/right_scan_coacd_007.stl"
+      }
+    ]
+  }
+}

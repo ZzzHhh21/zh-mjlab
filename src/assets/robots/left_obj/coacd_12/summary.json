@@ -1,0 +1,59 @@
+{
+  "source": "src/assets/robots/left_obj/left_scan.obj",
+  "part_count": 4,
+  "total_vertices": 29396,
+  "total_faces": 58776,
+  "params": {
+    "threshold": 0.0015,
+    "max_convex_hull": 12,
+    "preprocess_mode": "auto",
+    "preprocess_resolution": 160,
+    "resolution": 50000,
+    "mcts_nodes": 48,
+    "mcts_iterations": 320,
+    "mcts_max_depth": 5,
+    "pca": false,
+    "merge": false,
+    "decimate": false,
+    "max_ch_vertex": 256,
+    "extrude": false,
+    "extrude_margin": 0.001,
+    "apx_mode": "ch",
+    "seed": 2,
+    "real_metric": true
+  },
+  "parts": [
+    {
+      "file": "left_scan_coacd_12_000.obj",
+      "root_obj": "left_scan_coacd_12_000.obj",
+      "root_stl": "left_scan_coacd_12_000.stl",
+      "vertices": 22544,
+      "faces": 45084,
+      "volume": 0.00022138100543355217
+    },
+    {
+      "file": "left_scan_coacd_12_001.obj",
+      "root_obj": "left_scan_coacd_12_001.obj",
+      "root_stl": "left_scan_coacd_12_001.stl",
+      "vertices": 293,
+      "faces": 582,
+      "volume": 5.322582028090597e-06
+    },
+    {
+      "file": "left_scan_coacd_12_002.obj",
+      "root_obj": "left_scan_coacd_12_002.obj",
+      "root_stl": "left_scan_coacd_12_002.stl",
+      "vertices": 1503,
+      "faces": 3002,
+      "volume": 1.377112285134167e-06
+    },
+    {
+      "file": "left_scan_coacd_12_003.obj",
+      "root_obj": "left_scan_coacd_12_003.obj",
+      "root_stl": "left_scan_coacd_12_003.stl",
+      "vertices": 5056,
+      "faces": 10108,
+      "volume": 1.0951676764524411e-05
+    }
+  ]
+}

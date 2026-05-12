@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot name="design">
+  <material name="obj_color">
+    <color rgba="1.0 0.423529411765 0.0392156862745 1.0" />
+  </material>
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan.obj" scale="1 1 1" />
+      </geometry>
+    </visual>
+    <collision name="right_scan_coacd_fine_000_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_000.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_001_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_001.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_002_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_002.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_003_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_003.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_004_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_004.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_005_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_005.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_006_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_006.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_007_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_007.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_008_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_008.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_009_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_009.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_010_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_010.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_011_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_011.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_012_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_012.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_013_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_013.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_014_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_014.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_015_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_015.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_016_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_016.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_018_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_018.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_019_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_019.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_020_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_020.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_021_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_021.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_022_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_022.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_023_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_023.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_024_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_024.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_025_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_025.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_026_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_026.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_027_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_027.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_028_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_028.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_029_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_029.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_030_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_030.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_031_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_031.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_032_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_032.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_033_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_033.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_034_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_034.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_035_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_035.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_036_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_036.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_037_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_037.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+    <collision name="right_scan_coacd_fine_038_collision">
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="right_scan_coacd_fine_038.obj" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

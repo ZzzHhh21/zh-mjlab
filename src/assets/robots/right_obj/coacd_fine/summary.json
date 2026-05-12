@@ -1,0 +1,300 @@
+{
+  "source": "src/assets/robots/right_obj/right_scan.obj",
+  "part_count": 39,
+  "total_vertices": 57648,
+  "total_faces": 115140,
+  "params": {
+    "threshold": 0.002,
+    "max_convex_hull": -1,
+    "preprocess_mode": "auto",
+    "preprocess_resolution": 160,
+    "resolution": 50000,
+    "mcts_nodes": 48,
+    "mcts_iterations": 320,
+    "mcts_max_depth": 5,
+    "pca": false,
+    "merge": false,
+    "decimate": false,
+    "max_ch_vertex": 256,
+    "extrude": false,
+    "extrude_margin": 0.001,
+    "apx_mode": "ch",
+    "seed": 1,
+    "real_metric": true
+  },
+  "parts": [
+    {
+      "file": "right_scan_coacd_fine_000.obj",
+      "root_obj": "right_scan_coacd_fine_000.obj",
+      "root_stl": "right_scan_coacd_fine_000.stl",
+      "vertices": 1879,
+      "faces": 3754
+    },
+    {
+      "file": "right_scan_coacd_fine_001.obj",
+      "root_obj": "right_scan_coacd_fine_001.obj",
+      "root_stl": "right_scan_coacd_fine_001.stl",
+      "vertices": 1190,
+      "faces": 2376
+    },
+    {
+      "file": "right_scan_coacd_fine_002.obj",
+      "root_obj": "right_scan_coacd_fine_002.obj",
+      "root_stl": "right_scan_coacd_fine_002.stl",
+      "vertices": 1655,
+      "faces": 3306
+    },
+    {
+      "file": "right_scan_coacd_fine_003.obj",
+      "root_obj": "right_scan_coacd_fine_003.obj",
+      "root_stl": "right_scan_coacd_fine_003.stl",
+      "vertices": 2385,
+      "faces": 4766
+    },
+    {
+      "file": "right_scan_coacd_fine_004.obj",
+      "root_obj": "right_scan_coacd_fine_004.obj",
+      "root_stl": "right_scan_coacd_fine_004.stl",
+      "vertices": 1074,
+      "faces": 2144
+    },
+    {
+      "file": "right_scan_coacd_fine_005.obj",
+      "root_obj": "right_scan_coacd_fine_005.obj",
+      "root_stl": "right_scan_coacd_fine_005.stl",
+      "vertices": 2922,
+      "faces": 5840
+    },
+    {
+      "file": "right_scan_coacd_fine_006.obj",
+      "root_obj": "right_scan_coacd_fine_006.obj",
+      "root_stl": "right_scan_coacd_fine_006.stl",
+      "vertices": 2974,
+      "faces": 5944
+    },
+    {
+      "file": "right_scan_coacd_fine_007.obj",
+      "root_obj": "right_scan_coacd_fine_007.obj",
+      "root_stl": "right_scan_coacd_fine_007.stl",
+      "vertices": 1973,
+      "faces": 3942
+    },
+    {
+      "file": "right_scan_coacd_fine_008.obj",
+      "root_obj": "right_scan_coacd_fine_008.obj",
+      "root_stl": "right_scan_coacd_fine_008.stl",
+      "vertices": 1257,
+      "faces": 2510
+    },
+    {
+      "file": "right_scan_coacd_fine_009.obj",
+      "root_obj": "right_scan_coacd_fine_009.obj",
+      "root_stl": "right_scan_coacd_fine_009.stl",
+      "vertices": 2045,
+      "faces": 4086
+    },
+    {
+      "file": "right_scan_coacd_fine_010.obj",
+      "root_obj": "right_scan_coacd_fine_010.obj",
+      "root_stl": "right_scan_coacd_fine_010.stl",
+      "vertices": 2546,
+      "faces": 5088
+    },
+    {
+      "file": "right_scan_coacd_fine_011.obj",
+      "root_obj": "right_scan_coacd_fine_011.obj",
+      "root_stl": "right_scan_coacd_fine_011.stl",
+      "vertices": 1475,
+      "faces": 2946
+    },
+    {
+      "file": "right_scan_coacd_fine_012.obj",
+      "root_obj": "right_scan_coacd_fine_012.obj",
+      "root_stl": "right_scan_coacd_fine_012.stl",
+      "vertices": 2807,
+      "faces": 5610
+    },
+    {
+      "file": "right_scan_coacd_fine_013.obj",
+      "root_obj": "right_scan_coacd_fine_013.obj",
+      "root_stl": "right_scan_coacd_fine_013.stl",
+      "vertices": 3149,
+      "faces": 6294
+    },
+    {
+      "file": "right_scan_coacd_fine_014.obj",
+      "root_obj": "right_scan_coacd_fine_014.obj",
+      "root_stl": "right_scan_coacd_fine_014.stl",
+      "vertices": 2021,
+      "faces": 4038
+    },
+    {
+      "file": "right_scan_coacd_fine_015.obj",
+      "root_obj": "right_scan_coacd_fine_015.obj",
+      "root_stl": "right_scan_coacd_fine_015.stl",
+      "vertices": 1393,
+      "faces": 2782
+    },
+    {
+      "file": "right_scan_coacd_fine_016.obj",
+      "root_obj": "right_scan_coacd_fine_016.obj",
+      "root_stl": "right_scan_coacd_fine_016.stl",
+      "vertices": 1613,
+      "faces": 3222
+    },
+    {
+      "file": "right_scan_coacd_fine_017.obj",
+      "root_obj": "right_scan_coacd_fine_017.obj",
+      "root_stl": "right_scan_coacd_fine_017.stl",
+      "vertices": 4,
+      "faces": 4
+    },
+    {
+      "file": "right_scan_coacd_fine_018.obj",
+      "root_obj": "right_scan_coacd_fine_018.obj",
+      "root_stl": "right_scan_coacd_fine_018.stl",
+      "vertices": 20,
+      "faces": 36
+    },
+    {
+      "file": "right_scan_coacd_fine_019.obj",
+      "root_obj": "right_scan_coacd_fine_019.obj",
+      "root_stl": "right_scan_coacd_fine_019.stl",
+      "vertices": 392,
+      "faces": 780
+    },
+    {
+      "file": "right_scan_coacd_fine_020.obj",
+      "root_obj": "right_scan_coacd_fine_020.obj",
+      "root_stl": "right_scan_coacd_fine_020.stl",
+      "vertices": 1489,
+      "faces": 2974
+    },
+    {
+      "file": "right_scan_coacd_fine_021.obj",
+      "root_obj": "right_scan_coacd_fine_021.obj",
+      "root_stl": "right_scan_coacd_fine_021.stl",
+      "vertices": 824,
+      "faces": 1644
+    },
+    {
+      "file": "right_scan_coacd_fine_022.obj",
+      "root_obj": "right_scan_coacd_fine_022.obj",
+      "root_stl": "right_scan_coacd_fine_022.stl",
+      "vertices": 1770,
+      "faces": 3536
+    },
+    {
+      "file": "right_scan_coacd_fine_023.obj",
+      "root_obj": "right_scan_coacd_fine_023.obj",
+      "root_stl": "right_scan_coacd_fine_023.stl",
+      "vertices": 1398,
+      "faces": 2792
+    },
+    {
+      "file": "right_scan_coacd_fine_024.obj",
+      "root_obj": "right_scan_coacd_fine_024.obj",
+      "root_stl": "right_scan_coacd_fine_024.stl",
+      "vertices": 2011,
+      "faces": 4018
+    },
+    {
+      "file": "right_scan_coacd_fine_025.obj",
+      "root_obj": "right_scan_coacd_fine_025.obj",
+      "root_stl": "right_scan_coacd_fine_025.stl",
+      "vertices": 351,
+      "faces": 698
+    },
+    {
+      "file": "right_scan_coacd_fine_026.obj",
+      "root_obj": "right_scan_coacd_fine_026.obj",
+      "root_stl": "right_scan_coacd_fine_026.stl",
+      "vertices": 1590,
+      "faces": 3176
+    },
+    {
+      "file": "right_scan_coacd_fine_027.obj",
+      "root_obj": "right_scan_coacd_fine_027.obj",
+      "root_stl": "right_scan_coacd_fine_027.stl",
+      "vertices": 589,
+      "faces": 1174
+    },
+    {
+      "file": "right_scan_coacd_fine_028.obj",
+      "root_obj": "right_scan_coacd_fine_028.obj",
+      "root_stl": "right_scan_coacd_fine_028.stl",
+      "vertices": 1558,
+      "faces": 3112
+    },
+    {
+      "file": "right_scan_coacd_fine_029.obj",
+      "root_obj": "right_scan_coacd_fine_029.obj",
+      "root_stl": "right_scan_coacd_fine_029.stl",
+      "vertices": 690,
+      "faces": 1376
+    },
+    {
+      "file": "right_scan_coacd_fine_030.obj",
+      "root_obj": "right_scan_coacd_fine_030.obj",
+      "root_stl": "right_scan_coacd_fine_030.stl",
+      "vertices": 726,
+      "faces": 1448
+    },
+    {
+      "file": "right_scan_coacd_fine_031.obj",
+      "root_obj": "right_scan_coacd_fine_031.obj",
+      "root_stl": "right_scan_coacd_fine_031.stl",
+      "vertices": 678,
+      "faces": 1352
+    },
+    {
+      "file": "right_scan_coacd_fine_032.obj",
+      "root_obj": "right_scan_coacd_fine_032.obj",
+      "root_stl": "right_scan_coacd_fine_032.stl",
+      "vertices": 425,
+      "faces": 846
+    },
+    {
+      "file": "right_scan_coacd_fine_033.obj",
+      "root_obj": "right_scan_coacd_fine_033.obj",
+      "root_stl": "right_scan_coacd_fine_033.stl",
+      "vertices": 360,
+      "faces": 716
+    },
+    {
+      "file": "right_scan_coacd_fine_034.obj",
+      "root_obj": "right_scan_coacd_fine_034.obj",
+      "root_stl": "right_scan_coacd_fine_034.stl",
+      "vertices": 1253,
+      "faces": 2502
+    },
+    {
+      "file": "right_scan_coacd_fine_035.obj",
+      "root_obj": "right_scan_coacd_fine_035.obj",
+      "root_stl": "right_scan_coacd_fine_035.stl",
+      "vertices": 1096,
+      "faces": 2188
+    },
+    {
+      "file": "right_scan_coacd_fine_036.obj",
+      "root_obj": "right_scan_coacd_fine_036.obj",
+      "root_stl": "right_scan_coacd_fine_036.stl",
+      "vertices": 1337,
+      "faces": 2670
+    },
+    {
+      "file": "right_scan_coacd_fine_037.obj",
+      "root_obj": "right_scan_coacd_fine_037.obj",
+      "root_stl": "right_scan_coacd_fine_037.stl",
+      "vertices": 1885,
+      "faces": 3766
+    },
+    {
+      "file": "right_scan_coacd_fine_038.obj",
+      "root_obj": "right_scan_coacd_fine_038.obj",
+      "root_stl": "right_scan_coacd_fine_038.stl",
+      "vertices": 2844,
+      "faces": 5684
+    }
+  ]
+}
